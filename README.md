@@ -42,7 +42,7 @@ Follow these steps to set up and run the project on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/Advanced-RAG-Chatbot-for-The-Healthy-Keto-Plan-PDF.git](https://github.com/your-username/Advanced-RAG-Chatbot-for-The-Healthy-Keto-Plan-PDF.git)
+git clone [https://github.com/Gokhan-Ergul/Advanced-RAG-Chatbot-for-The-Healthy-Keto-Plan-PDF.git](https://github.com/Gokhan-Ergul/Advanced-RAG-Chatbot-for-The-Healthy-Keto-Plan-PDF.git)
 cd Advanced-RAG-Chatbot-for-The-Healthy-Keto-Plan-PDF
 ```
 
